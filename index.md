@@ -1,4 +1,4 @@
-## QUICK LINKS
+## SKILL STATION ACADEMY - IITJEE - A1 - 2025
 
 [Schedule of Classes]()
 
