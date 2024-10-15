@@ -1,2 +1,8 @@
-## IITJEE - A1 - BATCH - SKILL STATION ACADEMY
+## QUICK LINKS
+
+[Schedule of Classes]
+
+[Faculty Lecture Notes]
+
+[Studets Progress Report]
 
