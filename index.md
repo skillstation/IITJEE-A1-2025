@@ -11,9 +11,9 @@
 | **SESSION-ID** |   **WEEK**   |      **TIME**        |   **TOPICS**                        | **STATUS** |
 |:--------------:|:------------:|:--------------------:|:------------------------------------|:----------:|
 |251012-01       | OCT-W2-SAT   |  5:00 PM - 6:00 PM   | Phy - Fluids - Introduction (S01) [👨‍🏫](jrm-IZQxT1k) [📝](251012-01.pdf)   | ✅  |
-|251013-02       | OCT-W2-SUN   |  5:00 PM - 6:00 PM   | Mat - Quadrilaterals - Introduction (S01) [👨‍🏫](_Ls2ix0cm9s) [📝*]() | ✅  |
-|251019-03       | OCT-W2-SAT   |  5:00 PM - 7:00 PM   | Phy - Fluids - Illustration Problems (S02) [👨‍🏫](ldYPTEG20Jo) [📝*]() | ✅ |
-|251020-04       | OCT-W3-SUN   |  4:00 PM - 6:00 PM   | Mat - Theorems + Properties + Problems (S02) [👨‍🏫*]() [📝*]() | ✅ |
+|251013-02       | OCT-W2-SUN   |  5:00 PM - 6:00 PM   | Mat - Quadrilaterals - Introduction (S01) [👨‍🏫](_Ls2ix0cm9s) [📝*](x) | ✅  |
+|251019-03       | OCT-W2-SAT   |  5:00 PM - 7:00 PM   | Phy - Fluids - Illustration Problems (S02) [👨‍🏫](ldYPTEG20Jo) [📝*](x) | ✅ |
+|251020-04       | OCT-W3-SUN   |  4:00 PM - 6:00 PM   | Mat - Theorems + Properties + Problems (S02) [👨‍🏫*](x) [📝*](x) | ✅ |
 |251026-05       | OCT-W4-SAT   |  5:00 PM - 7:00 PM   | Phy - Fluids - Illustration Problems (S02)    | ✔️  |
 |251027-06       | OCT-W4-SUN   |  4:00 PM - 6:00 PM   | Mat - Theorems + Properties + Problems (S02)  | ✔️  |
 
