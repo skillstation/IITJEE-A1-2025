@@ -64,7 +64,7 @@ NOT AVAILABLE
 
 **NOTE**
 
-✔️ - Indicates classes have been scheduled*
+✔️ - Indicates classes have been scheduled*\
 ✅ - Indicates classes have been completed*
   
 
