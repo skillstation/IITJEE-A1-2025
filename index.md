@@ -21,7 +21,7 @@ Here’s the revised schedule with sessions only on Sundays in March 2025:
 | Sunday 30-Mar-25  | S-02    | 4:00-6:00 PM  | **Physics**    |
 | Sunday 30-Mar-25  | S-03    | 6:00-8:00 PM  | **Chemistry**    |
 
-🟡 - Indicates classes have been scheduled
+🟡 - Indicates classes have been scheduled\
 ✅ - Indicates classes have been completed
   
 
