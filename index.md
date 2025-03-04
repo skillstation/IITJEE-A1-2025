@@ -4,8 +4,6 @@
 
 **MARCH-2025**
 
-Here’s the revised schedule with sessions only on Sundays in March 2025:  
-
 | Date       | Session  | Time Slot      | Subject             |
 |------------|---------|---------------|---------------------|
 | Sunday 09-Mar-25  | S-01    | 2:00-4:00 PM  | **Maths** ✅   |
