@@ -1,25 +1,52 @@
-## SKILL STATION ACADEMY - IITJEE - A1 - 2025
+# SKILL STATION ACADEMY 
 
-## SCHEDULE OF CLASSES 
+## IITJEE - A1 - 2025
 
-**MARCH-2025**
+## IITJEE MENTORSHIP PROGRAM - OVERALL COURSE PLAN
 
-| Date       | Session  | Time Slot      | Subject             |
-|------------|---------|---------------|---------------------|
-| Sunday 09-Mar-25  | S-01    | 2:00-4:00 PM  | **Maths** ✅   |
-| Sunday 09-Mar-25  | S-02    | 4:00-6:00 PM  | **Physics** 🟡   |
-| Sunday 09-Mar-25  | S-03    | 6:00-8:00 PM  | **Chemistry** 🟡   |
-| Sunday 16-Mar-25  | S-01    | 2:00-4:00 PM  | **Maths**   |
-| Sunday 16-Mar-25  | S-02    | 4:00-6:00 PM  | **Physics**    |
-| Sunday 16-Mar-25  | S-03    | 6:00-8:00 PM  | **Chemistry**    |
-| Sunday 23-Mar-25  | S-01    | 2:00-4:00 PM  | **Maths**   |
-| Sunday 23-Mar-25  | S-02    | 4:00-6:00 PM  | **Physics**    |
-| Sunday 23-Mar-25  | S-03    | 6:00-8:00 PM  | **Chemistry**    |
-| Sunday 30-Mar-25  | S-01    | 2:00-4:00 PM  | **Maths**   |
-| Sunday 30-Mar-25  | S-02    | 4:00-6:00 PM  | **Physics**    |
-| Sunday 30-Mar-25  | S-03    | 6:00-8:00 PM  | **Chemistry**    |
+(For Students in Class 10 Only)
 
-🟡 - Indicates classes have been scheduled\
-✅ - Indicates classes have been completed
+**ACADEMIC YEAR-1 (DURING CLASS X)**
+
+I. CONCEPTS FROM CLASS X NCERT (Also cover basics from C8,C9)
+
+II. BRIDGE CONCEPTS(from Class XI, XII)
+
+III. APPTITUDE AND LOGICAL REASONING ABLITY 
+
+**ACADEMIC YEAR-II (DURING CLASS XI)**
+
+I. MATHEMATICAL FOUNDATIONS
+
+II. CONCEPTS FROM CLASS XII NCERT
+
+III. CONCEPTS FROM CLASS XI NCERT
+
+**ACADEMIC YEAR-III (DURING CLASS XII)**
+
+I. PRACTISE PROBLEMS & EXAMS FOR JEE MAINS
+
+II. PRACTISE PROBLEMS & EXAMS FOR JEE ADVANCED
+
+
+## MONTH-1
+
+**W1-PHYSICS-S01**
+
+• 11.1 ELECTRIC CURRENT AND CIRCUIT
+• 11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE
+• 11.3 CIRCUIT DIAGRAM
+• 11.4 OHM’S LAW
+• 11.5 FACTORS ON WHICH THE RESISTANCE OF A CONDUCTOR DEPENDS
+
+**W2-PHYSICS-S02**
+
+• 11.6 RESISTANCE OF A SYSTEM OF RESISTORS
+• 11.7 HEATING EFFECT OF ELECTRIC CURRENT
+• 11.8 ELECTRIC POWER
+
+W1-MATHEMATICS-S01
+
+W1-CHEMISTRY-S01
   
 
