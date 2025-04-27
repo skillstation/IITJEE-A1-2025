@@ -2,6 +2,37 @@
 
 ## IITJEE - A1 - 2025
 
+**SYLLABUS INDEX**
+
+**PHYSICS**
+
+|  | CHAPTER | LECTURE | NOTES | WS-0 | WS-1 | WS-2 | WS-3 |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| 11 | ELECTRICITY |  |  |  |  |  |  |
+| 12 | MAGNETIC EFFECTS OF ELECTRIC CURRENT |  |  |  |  |  |  |
+| 09 | LIGHTS REFLECTION AND REFRACTION |  |  |  |  |  |  |
+| 10 | HUMAN EYES AND COLORFUL WORLD |  |  |  |  |  |  |
+
+CHEMISTRY
+
+|  | CHAPTER | LECTURE | NOTES | WS-0 | WS-1 | WS-2 | WS-3 |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| 11 | ELECTRICITY |  |  |  |  |  |  |
+| 12 | MAGNETIC EFFECTS OF ELECTRIC CURRENT |  |  |  |  |  |  |
+| 09 | LIGHTS REFLECTION AND REFRACTION |  |  |  |  |  |  |
+| 10 | HUMAN EYES AND COLORFUL WORLD |  |  |  |  |  |  |
+
+MATHEMATICS
+
+|  | CHAPTER | LECTURE | NOTES | WS-0 | WS-1 | WS-2 | WS-3 |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| 11 | ELECTRICITY |  |  |  |  |  |  |
+| 12 | MAGNETIC EFFECTS OF ELECTRIC CURRENT |  |  |  |  |  |  |
+| 09 | LIGHTS REFLECTION AND REFRACTION |  |  |  |  |  |  |
+| 10 | HUMAN EYES AND COLORFUL WORLD |  |  |  |  |  |  |
+
+
+
 ## IITJEE MENTORSHIP PROGRAM - OVERALL COURSE PLAN
 
 (For Students in Class 10 Only)
